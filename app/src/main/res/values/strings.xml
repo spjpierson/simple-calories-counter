@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Simple Calorie Counter</string>
+    <string name="scroll">Scroll View</string>
+    <string name="food_name">Food Name</string>
+    <string name="Enter">Enter</string>
+    <string name="amount">Calories Amount</string>
 </resources>
