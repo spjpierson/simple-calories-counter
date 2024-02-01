@@ -3,5 +3,7 @@
     <string name="scroll">Scroll View</string>
     <string name="food_name">Food Name</string>
     <string name="Enter">Enter</string>
-    <string name="amount">Calories Amount</string>
+    <string name="amount_cal">Calories Amount</string>
+    <string name="amount_fat">Fat Amount</string>
+    <string name="amount_protein">Protein</string>
 </resources>
